@@ -1,0 +1,45 @@
+﻿s {
+    text-decoration: solid;
+    font-weight: bold;
+}
+nav {
+    background: rgba(255, 106, 0,0.7);
+    width: auto;
+}
+body
+{
+    background:  lightpink;  
+    /* rgb(233, 164, 164); */
+}
+body h1 {
+    text-align: center
+}
+section img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+footer {
+    background: rgb(0, 148, 255);
+}
+div {
+    background-color: azure;
+}
+footer div.tab {
+    display: table;
+    width: 100%;
+    /*padding: 0px 0px;
+    border-spacing: 0px 10px;*/
+
+    /*    border-collapse: collapse;*/
+}
+footer div.col {
+    background: rgb(33, 164, 164);
+    display: inline-block;
+    text-align: center;
+    width: 32%;
+    border-spacing: 30px;
+    margin: auto;
+    border: solid red;
+}
